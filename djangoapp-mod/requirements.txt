@@ -1,4 +1,0 @@
-Django>=3.0,<=3.1
-whitenoise
-psycopg2-binary
-azure-identity==1.9.0b1
